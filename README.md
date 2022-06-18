@@ -160,6 +160,13 @@ li a:hover:not(.active) {
   title="size:x/l/m
   price=250"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+      <img
+  src="t shirt.jpg"
+  alt="Alt text"
+  title="size:x/l/m
+  price=250"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+      
   <center>please take screen shoot.send us contact site</center>
   <a href= 
 "facebook.com"> Contact Me </a>
