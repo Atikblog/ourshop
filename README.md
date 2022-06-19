@@ -85,7 +85,7 @@ li a:hover:not(.active) {
     <body>
     
     <ul>
-        <li><a class="active" href="#home">previous page</a></li> 
+        <li><a class="active" href="https://atikblog.github.io/bazar2/">previous page</a></li> 
 
     </ul><!DOCTYPE html>
     <html>
